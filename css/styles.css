@@ -1,25 +1,31 @@
 body{
-    margin: 0;
-    background-color:#fffcca ;
-    text-align:center;
+    margin:0;
+    background-color:#222831;
+    text-align: center;
+}
+#top-container{
+  position: absolute;
+   
+    top: 190px;
+   right:230px ;
+  width: 70%;
 }
 h1{
     width: 10%;
-    margin:0 auto;
+    margin: 0 auto 0 auto;
 }
-.bottom-cloud
-{
-    position: absolute;
-    bottom: 300px;
-    left: 350px;
+p{
+  
 }
-.cloud{
-    position: absolute;
-    right: 400px;
-    top:60px;
+#image{
+   width:100%;
 }
-div{
+#maindiv{
     position: relative;
-padding-top: 150px;
-    
+}
+hr{
+    border: grey dotted;
+    border-width: 3px 0 0 0;
+    width: 4%;
+    margin:15px auto 15px auto;
 }
