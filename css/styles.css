@@ -15,7 +15,7 @@ h1{
     margin: 0 auto 0 auto;
 }
 p{
-  
+  text-decoration: underline;
 }
 #image{
    width:100%;
