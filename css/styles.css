@@ -1,6 +1,6 @@
 body{
     margin:0;
-    background-color:#222831;
+ background-color:#222831;
     text-align: center;
 }
 #top-container{
@@ -9,23 +9,51 @@ body{
     top: 190px;
    right:230px ;
   width: 70%;
+ 
 }
 h1{
     width: 10%;
-    margin: 0 auto 0 auto;
+    margin: 0 auto;
 }
 p{
   text-decoration: underline;
 }
 #image{
    width:100%;
+   margin: auto;
 }
 #maindiv{
     position: relative;
+    margin: 0 auto;
 }
 hr{
     border: grey dotted;
     border-width: 3px 0 0 0;
-    width: 4%;
-    margin:15px auto 15px auto;
+    width: 3%;
+    margin:20px auto 20px auto;
+}
+#logo{
+  margin:30px auto;
+  position: absolute;
+  left:700px ;
+  top:7px;
+  
+}
+#tabl{
+  border:black 3px;
+
+}
+.skll
+{
+margin:20px;
+border:1px solid;
+  border-color:white;
+  border-radius: 100%;
+}
+#seconddiv{
+  width: 70%;
+  margin: 0 auto;
+}
+h2{
+  color:#eeeeee
 }
